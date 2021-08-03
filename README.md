@@ -4,6 +4,8 @@ Cancer vaccines are an important component of the cancer immunotherapy toolkit, 
 
 ### Requirements to run the Mathematica Notebook code:
 - Wolfram Mathematica 12.0 (or most recent version)
+- Download all files and run .nb directly using Mathematica. 
+- Make sure all datasets and notebook are saved in the same directory. 
 - To run the Code.nb (Shift+Enter to execute each cell):
     1. Download data from this repository (Patients_HLA_BA.xlsx, Tcellscounts.xlsx, and Best-fit_param.xlsx)
     2. Load the datasets using the corresponding cells
